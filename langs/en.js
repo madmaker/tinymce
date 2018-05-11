@@ -1,4 +1,4 @@
-tinymce.addI18n('en_GB',{
+tinymce.addI18n('en',{
 "Cut": "Cut",
 "Heading 5": "Heading 5",
 "Header 2": "Header 2",
@@ -226,5 +226,6 @@ tinymce.addI18n('en_GB',{
 "Tools": "Tools",
 "View": "View",
 "Table": "Table",
-"Format": "Format"
+"Format": "Format",
+"Class": "Adaptivity"
 });
