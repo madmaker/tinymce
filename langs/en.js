@@ -227,5 +227,5 @@ tinymce.addI18n('en',{
 "View": "View",
 "Table": "Table",
 "Format": "Format",
-"Class": "Adaptivity"
+"Class": "Class"
 });

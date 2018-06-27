@@ -194,5 +194,5 @@ tinymce.addI18n("ru", {
     View: "Вид",
     Table: "Таблица",
     Format: "Формат",
-    Class: "Адаптивность"
+    Class: "Класс"
 });
