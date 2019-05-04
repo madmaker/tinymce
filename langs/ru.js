@@ -100,7 +100,7 @@ tinymce.addI18n("ru", {
     "New window": "В новом окне",
     None: "Нет",
     "The URL you entered seems to be an external link. Do you want to add the required http:// prefix?": "Введённый URL является внешней ссылкой. Вы желаете добавить префикс «http://»?",
-    Target: "Открывать ссылку",
+    Target: "Открывать в новом окне",
     "The URL you entered seems to be an email address. Do you want to add the required mailto: prefix?": "Введённый URL является корректным адресом электронной почты. Вы желаете добавить префикс «mailto:»?",
     "Insert/edit link": "Вставить/редактировать ссылку",
     "Insert/edit video": "Вставить/редактировать видео",
